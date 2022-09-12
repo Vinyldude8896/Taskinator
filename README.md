@@ -1,8 +1,14 @@
 # Taskinator
 
-### This project is a a task tracker app. This will allow you to keep track of tasks To Do, in Progress and Completed.
 
-### This app allows you to add a new task, edit or delete a task. This also alllows you to change the status to In Progress or Completed, which then moves it to the appropriate container.
+### User Story
+
+As a user looking with a busy schedule, I would like an application that allows me to see, track, add, update, edit and delete my tasks. This will help me track and oraganize all my tasks. When I am on the homepage, I am presented with a toolbar where I can enter a new task. When I am looking at my existing tasks, I can see the To Do section, the In progress section and the completed section.
+
+### Features
+This app allows you to track your tasks
+This app allows you to add a new task, edit or delete a task.
+This also alllows you to change the status to In Progress or Completed, which then moves it to the appropriate container.
 
 ### badges
 ![HTML.js](https://img.shields.io/badge/HTML-License-blue)
